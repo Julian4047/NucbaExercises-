@@ -3,7 +3,8 @@ function myFunctionCreate() {
   btn.innerHTML = text.value;
   document.body.appendChild(btn);
 }
+
 function myFunctionRemove() {
-  var myobj = document.createElement("div");
+  var myobj = document.querySelector("div");
   myobj.remove();
 }
