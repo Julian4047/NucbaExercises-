@@ -13,10 +13,10 @@ function myFunctionRemove() {
 //var btn = document.createElement("div");
 //btn.innerHTML = text.value;
 //document.body.appendChild(btn);
-//btn.classList.add("todo");
+//btn.classList.add("input");
 //}
 
 //function myFunctionRemove() {
-//var myobj = document.querySelector(".todo");
+//var myobj = document.querySelector(".input");
 //myobj.remove();
 //} 
